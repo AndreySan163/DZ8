@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6273d8a-1003-4507-9fbd-36f07445da22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ApplePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Callable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Informable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SamsungPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/XiaomiPhone.java" afterDir="false" />
-    </list>
+    <list default="true" id="b6273d8a-1003-4507-9fbd-36f07445da22" name="Changes" comment="DZ8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,8 +42,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699083279707</updated>
-      <workItem from="1699083281033" duration="756000" />
+      <workItem from="1699083281033" duration="1103000" />
     </task>
+    <task id="LOCAL-00001" summary="DZ8">
+      <created>1699084324431</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699084324431</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +67,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DZ8" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ8" />
   </component>
 </project>
